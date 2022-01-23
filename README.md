@@ -1,3 +1,5 @@
 PERSPECTIVE
 
-This is my perspective. 
+This is my first repository on GitHub. 
+
+:) 
