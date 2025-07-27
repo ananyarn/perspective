@@ -12,7 +12,7 @@ Welcome! This is a personal repository where I store and organize my practice co
 ### 🧠 Currently Re-learning
 
 #### ➤ HTML & CSS
-I'm following [Dave Gray's HTML Full Course on YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA) and building small projects and exercises from it. 
+I'm following [Dave Gray's HTML Full Course on YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA) + [Dave Gray's CSS Full Course on YouTube](https://www.youtube.com/watch?v=n4R2E7O-Ngo) and building small projects and exercises from it. 
 
 
 ### 💡 Why This Repo?
